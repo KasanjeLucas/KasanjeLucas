@@ -5,7 +5,7 @@
 
   - 📚 I’m currently studying some electronics stuff and some backend technologies too. 
 
-  - 🔭 I am looking for my first undegrate research opportunity. My dream is to one day work with Automation Process or something like that.
+  - 🔭 I am looking for my first undergraduate research opportunity. My dream is to one day work with Automation Process or something like that.
 </p>
 
 <!-- Dropdown -->
