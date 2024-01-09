@@ -13,11 +13,11 @@
   <summary>👨‍💻 More about me</summary>
 
   - 💬 I am 19 years old, currently living in Brazil. I have an Intermediate (Almost Advanced) English and have experience with SQL, PHP, HTML5, Java, and Bootstrap. I'm also a [@for_code](https://github.com/forcodeufrj) member
-  - ⚡ I really enjoy watching movies and playing intriguing story games. I think that with this kind of content can improve our critical thinking as well the creativity.
+  - ⚡ I really enjoy watching movies and playing intriguing story games. I think that this kind of content can improve our critical thinking as well the creativity.
 </details>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KasanjeLucas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kasanjelucas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KasanjeLucas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
