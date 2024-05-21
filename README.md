@@ -12,7 +12,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 19 years old, currently living in Brazil. I have an Intermediate (Almost Advanced) English and have experience with SQL, PHP, HTML5, Java, and Bootstrap. I'm also a [@for_code](https://github.com/forcodeufrj) member
+  - 💬 I am 20 years old, currently living in Brazil. I have an Intermediate (Almost Advanced) English and have experience with SQL, PHP, HTML5, Java, and Bootstrap. I'm also a [@for_code](https://github.com/forcodeufrj) member
   - ⚡ I really enjoy watching movies and playing intriguing story games. I think that this kind of content can improve our critical thinking as well the creativity.
 </details>
 
